@@ -1,2 +1,3 @@
-# .github
-The repo that puts a readme on the company's GitHub profile.
+# Empowering People Scotland
+
+This GitHub organisation is used to host and manage the code behind our website.
